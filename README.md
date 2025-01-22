@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> - software Development Student</p>
+<p align="left"> - Software Development Student</p>
 
 ###
 
