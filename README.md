@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou profissional da área de segurança privada, formado em Tecnologia em Análise e Desenvolvimento de Sistema pela Universidade Nove de Julho e atualmente estou em busca de transição de carreira.</p>
+<p align="left"> - software Development Student</p>
 
 ###
 
